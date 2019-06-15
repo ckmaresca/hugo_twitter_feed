@@ -1,4 +1,4 @@
-# hugo_twitter_feed
+# Hugo Twitter Feed
 Go hack to get a Twitter feed into Hugo as individual posts
 
 This will pull Twitter posts and turn them into individual files in the directory 'content'.  
@@ -10,6 +10,7 @@ The point of all this is to generate Markdown formatted post for the Hugo CMS to
 Uses the following packages:
 
 "github.com/kurrik/oauth1a"
+
 "github.com/kurrik/twittergo"
 
 This is basically a heavily modified version of the 'user timeline' example from TwitterGo
