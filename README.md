@@ -13,6 +13,6 @@ Uses the following packages:
 
 "github.com/kurrik/twittergo"
 
-This is basically a heavily modified version of the 'user timeline' example from TwitterGo
+This is basically a heavily modified version of the 'user timeline' example from TwitterGo.  The Twiter JSON structure was parsed into a Go stuct using Matt Holt's excellent tool: https://mholt.github.io/json-to-go/ 
 
 Note that this is just my crappy code for my own personal website - use at your own risk.
